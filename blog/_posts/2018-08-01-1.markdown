@@ -1,9 +1,0 @@
----
-layout: claire
-title:  "Jekyll搭建个人博客"
-date:   2018-08-01
-categories: original
----
-#下载ruby  
-下载地址：  
-[Title]http://rubyinstaller.org/downloads/
