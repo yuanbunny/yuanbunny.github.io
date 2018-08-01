@@ -1,2 +1,2 @@
 # yuanbunny.github.io
-记录下新的知识点
+用jekyll搭建一个博客
